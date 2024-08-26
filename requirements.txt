@@ -1,0 +1,7 @@
+# pip install -r requirements.txt
+crewai
+exa_py
+langchain
+python-dotenv
+streamlit
+groq
