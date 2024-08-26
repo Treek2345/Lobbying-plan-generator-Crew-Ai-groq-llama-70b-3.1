@@ -1,3 +1,5 @@
+[screenshot-ideogram ai-2024 08 26-15_14_51](https://github.com/user-attachments/assets/10987d91-1fcd-4991-bd00-e2f6b27ec292)
+
 Lobbying Crew: Automating Lobbying Strategy with AI!
 
 📖 Overview
